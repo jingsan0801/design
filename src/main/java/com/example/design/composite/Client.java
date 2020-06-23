@@ -12,6 +12,22 @@ public class Client {
         init();
         root.print();
         printInfo(root);
+
+/*
+        树枝节点: window窗口
+        window窗口 的叶子节点: logo图片
+        树枝节点: 登录Frame
+        登录Frame 的叶子节点: 用户名label
+        登录Frame 的叶子节点: 用户名文本框
+        登录Frame 的叶子节点: 密码label
+        登录Frame 的叶子节点: 密码文本框
+        登录Frame 的叶子节点: 是否记住密码复选框
+        登录Frame 的叶子节点: 记住密码label
+        登录Frame 的叶子节点: 忘记密码link
+        window窗口 的叶子节点: 登录按钮
+        window窗口 的叶子节点: 注册按钮
+
+        */
     }
 
     private static void init() {
